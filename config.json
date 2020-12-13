@@ -1,0 +1,13 @@
+{
+  "params":
+  {
+    "local_serer": "True",
+    "tw_url":"https://www.twitter.com/Queue-Management-System-LTD-100861538550813",
+    "fb_url":"https://www.facebook.com/Queue-Management-System-LTD-100861538550813",
+    "ins_url":"https://www.facebook.com/Queue-Management-System-LTD-100861538550813",
+    "gmail_user":"mahjabeenamira.09@gmail.com",
+    "gmail_password":"(123456789)",
+    "admin_user": "admin",
+    "admin_pass": "admin"
+  }
+}

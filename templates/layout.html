@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+
+    <!-- Favicons -->
+  <link href="{{ url_for('static', filename='assets/img/favicon.png') }}" rel="icon">
+  <link href="{{ url_for('static', filename='assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/signup.css') }}">
+</head>
+<body>
+    {% include "includes/_message.html "%}
+    {% block body%}
+    {% endblock %}
+
+
+</body>
+</html>
